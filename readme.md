@@ -65,7 +65,7 @@ library-management-system/
 
 - https://frontend-bookstore-iota.vercel.app/
 
-![bookList](./bookStore.png)
+![bookList](./bookstore.png)
 ![editBook](./editBook.png)
 
 ## Notes
