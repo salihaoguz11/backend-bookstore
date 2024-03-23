@@ -1,7 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# BE-ASS-01 : Basic Library Management System with CRUD Operations for Books
+# Basic Library Management System with CRUD Operations for Books
 
 ## Description
 
@@ -66,10 +63,10 @@ library-management-system/
 
 ## User Interface
 
-![bookList](./bookstore.png)
-![editBook](./editBook.png)
-
 - https://frontend-bookstore-iota.vercel.app/
+
+![bookList](./bookStore.png)
+![editBook](./editBook.png)
 
 ## Notes
 
