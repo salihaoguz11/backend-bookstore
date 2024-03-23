@@ -66,7 +66,7 @@ library-management-system/
 
 ## User Interface
 
-![bookList](./bookStore.png)
+![bookList](./bookstore.png)
 ![editBook](./editBook.png)
 
 - https://frontend-bookstore-iota.vercel.app/
